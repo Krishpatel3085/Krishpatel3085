@@ -1,4 +1,5 @@
-![krish kaila](https://www.canva.com/design/DAGOX3lZDEo/OD_ANqaEnSNBL3fa0KoghQ/view?utm_content=DAGOX3lZDEo&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+![krish kaila](https://git)
+<img align="center" src="https://github.com/Krishpatel3085/Krishpatel3085/krish patel.png">
 <h1 align="center">Hi 👋, I'm Krish Kaila</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 
