@@ -1,5 +1,5 @@
 ![Krish Kaila](https://github.com/Krishpatel3085/Krishpatel3085/blob/9f475f4535b59f2932db609994de064f058125cb/krish%20patel.png)
-<img align="center" src="https://github.com/Krishpatel3085/Krishpatel3085/krish patel.png">
+
 <h1 align="center">Hi 👋, I'm Krish Kaila</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 
