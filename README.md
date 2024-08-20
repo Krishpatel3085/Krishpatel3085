@@ -1,4 +1,3 @@
-![Dhyey Gorasiya](https://github.com/dhyey-gorasiya/dhyey-gorasiya/assets/120018944/f436c447-1152-4bcb-a371-7fa3c2e2ae45)
 <h1 align="center">Hi 👋, I'm Krish Kaila</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 
