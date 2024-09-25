@@ -1,4 +1,4 @@
-![Krish Kaila](https://github.com/Krishpatel3085/Krishpatel3085/blob/9f475f4535b59f2932db609994de064f058125cb/krish%20patel.png)
+![Krish Kaila](https://github.com/Krishpatel3085/Krishpatel3085/blob/main/krish.png)
 
 <h1 align="center">Hi 👋, I'm Krish Kaila</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
